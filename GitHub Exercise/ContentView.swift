@@ -17,6 +17,7 @@ struct ContentView: View {
                 .font(.largeTitle)
                 .fontWeight(.black
                 )
+            Rectangle()
         }
         .padding()
         .foregroundStyle(.blue)
